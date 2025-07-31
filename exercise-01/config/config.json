@@ -1,0 +1,11 @@
+{
+    "DATA_PATH": "data/bbc-text.csv",
+    "TARGET_NAME": "category",
+    "TEXT_FIELD": "text",
+    "VOCAB_SIZE": 1000,
+    "OUTPUT_LENGTH": 100,
+    "SEED": 42,
+    "EPOCHS": 30,
+    "BATCH_SIZE": 32,
+    "MODEL_PATH": "models/text_classification_model.keras"
+}
