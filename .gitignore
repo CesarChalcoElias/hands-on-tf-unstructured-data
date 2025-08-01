@@ -3,4 +3,7 @@
 .venv
 *.csv
 *.jpg
+*.keras
 .ipynb_checkpoints
+*/__pycache__/
+*.pyc
